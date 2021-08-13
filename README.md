@@ -1,5 +1,5 @@
-# product-landing-page.github.io
+# product-landing-page
 
 this is a project from freeCodeCamp
 
-[demo](https://nguyen-thanh-luan-github.github.io/product-landing-page.github.io/)
+[demo](https://thanh-luan-nguyen.github.io/product-landing-page/)
